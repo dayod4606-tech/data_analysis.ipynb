@@ -25,8 +25,3 @@ Project Notebook
 
 The complete analysis is available in the google collab Notebook file in this repository.
 
-About Me
-
-I am an Associate Degree in Data Science student building my skills in Python, SQL, Excel, and Data Analysis.
-
-This project is part of my learning journey toward becoming a Data Analyst.
