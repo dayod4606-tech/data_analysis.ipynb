@@ -1,2 +1,6 @@
-# data_analysis.ipynb
-Exploring and analyzing data using Python, Pandas, and Google Colab.
+## Tools & Technologies
+
+- Python
+- Google Colab
+- Pandas
+- Matplotlib
